@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "139944539012",
+    "firebase_url": "https://find-my-partner-5616f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "find-my-partner-5616f",
+    "storage_bucket": "find-my-partner-5616f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139944539012:android:f7ee249f4c9ec7ddfbe3d1",
+        "android_client_info": {
+          "package_name": "com.sasat.lacakapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakMpeYGO2nl5UVFmFMCIOLVjw6ST4Aog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

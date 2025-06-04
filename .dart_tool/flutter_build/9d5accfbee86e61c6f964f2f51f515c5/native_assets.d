@@ -1,0 +1,1 @@
+ /Users/satriaramadan/Documents/lacak\ apps/.dart_tool/flutter_build/9d5accfbee86e61c6f964f2f51f515c5/native_assets.yaml: 
